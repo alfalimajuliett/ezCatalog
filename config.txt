@@ -1,2 +1,2 @@
-filter = '&fq=keyword:"Minnesota"'
+filter = '&q=id:edi.1098.1'
 limit = 20
